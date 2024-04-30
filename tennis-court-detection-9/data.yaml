@@ -1,0 +1,12 @@
+names:
+- tennis-court
+nc: 1
+roboflow:
+  license: MIT
+  project: tennis-court-detection
+  url: https://universe.roboflow.com/tennistracker-dogbm/tennis-court-detection/dataset/9
+  version: 9
+  workspace: tennistracker-dogbm
+test: ../test/images
+train: ../train/images
+val: ../valid/images
